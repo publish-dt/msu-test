@@ -1,4 +1,4 @@
 siteID = 'OTK';
-hostname = "https://publish-dt.github.io/msu-test";
+hostname = "";
 dnsLinks = "";
 isStaticMode = true;
