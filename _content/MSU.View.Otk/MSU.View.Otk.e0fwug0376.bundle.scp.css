@@ -1,0 +1,63 @@
+/* _content/MSU.View.Otk/Components/Left.razor.rz.scp.css */
+.overriding[b-f0cnrlso9f]  .daterangepicker {
+    background-color: #136;
+    border-radius: 0px;
+    border-width: 1px 2px;
+    border-color: #8be #9cf #9cf #8be;
+}
+
+    .overriding[b-f0cnrlso9f]  .daterangepicker .calendar-table {
+        background-color: #136;
+    }
+
+    .overriding[b-f0cnrlso9f]  .daterangepicker .drp-calendar.left {
+        padding: 0px 1px 1px 1px;
+    }
+
+        .overriding[b-f0cnrlso9f]  .daterangepicker .drp-calendar.left .calendar-table {
+            padding-right: 0px;
+        }
+
+            .overriding[b-f0cnrlso9f]  .daterangepicker .drp-calendar.left .calendar-table .table-condensed .activeday {
+                color: #DDD !important;
+                background: none !important;
+                border: 1px solid #FFFFFF !important;
+                border-radius: 0px;
+                font-weight: bold;
+            }
+            .overriding[b-f0cnrlso9f]  .daterangepicker .drp-calendar.left .calendar-table .table-condensed .katren {
+                color: #DDD !important;
+                background: #406092 !important;
+                border-radius: 0px;
+                font-weight: bold;
+            }
+            .overriding[b-f0cnrlso9f]  .daterangepicker .drp-calendar.left .calendar-table .table-condensed .dict-poem {
+                color: #DDD !important;
+                background: #406092 !important;
+                border: 1px solid #FFFFFF !important;
+                border-radius: 0px;
+                font-weight: bold;
+            }
+
+.overriding[b-f0cnrlso9f]  .table-condensed > tbody > tr > td, .overriding[b-f0cnrlso9f]  .table-condensed > tbody > tr > th,
+.overriding[b-f0cnrlso9f]  .table-condensed > tfoot > tr > td, .overriding[b-f0cnrlso9f]  .table-condensed > tfoot > tr > th,
+.overriding[b-f0cnrlso9f]  .table-condensed > thead > tr > td, .overriding[b-f0cnrlso9f]  .table-condensed > thead > tr > th {
+    padding: 0px;
+    border: none;
+}
+
+.overriding[b-f0cnrlso9f]  td.off, td.off.in-range[b-f0cnrlso9f], td.off.start-date[b-f0cnrlso9f], td.off.end-date[b-f0cnrlso9f] {
+    background-color: transparent;
+}
+
+.overriding[b-f0cnrlso9f]  .next:hover, .overriding[b-f0cnrlso9f]  .prev:hover {
+    background-color: transparent;
+}
+.overriding[b-f0cnrlso9f]  .next span, .overriding[b-f0cnrlso9f]  .prev span {
+    color: #fff;
+    border: solid #DDD;
+    border-width: 0 2px 2px 0;
+    border-radius: 0;
+    display: inline-block;
+    padding: 3px;
+}

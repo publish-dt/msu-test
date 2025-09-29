@@ -670,18 +670,14 @@ td{
 	display: none;
 }
 .select-poslan{
+	float:right;
 	margin-top:5px;
 }
-.select-year{
-	float:right;
-}
 .select-month{
-	float:right; 
 	margin-right:5px;	
 }
 /*Перейти к месяцу и году Послания*/
 .goto{
-	float:right; 
 	text-align: right; 
 	padding-right:5px;
 }
