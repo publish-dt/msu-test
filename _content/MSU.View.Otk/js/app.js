@@ -736,7 +736,7 @@ function processJsonCld(data) {
             minCldYear = data.MinYear;
             daysData = data.DaysData;
         } else {
-            throw new Error('С сервера пришли пустые данные')
+            //throw new Error('С сервера пришли пустые данные') могут быть пустыми при перемещении в приделах одного месяца, т.е. эти данные были ранее загружены
         }
     } catch (e) {
         throw new Error(e.message)
