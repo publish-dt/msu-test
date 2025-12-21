@@ -1,4 +1,4 @@
-<title>Весной, будет объявлен Старт!</title><h1 class="page-title"><span><span class="date">25.11.2025</span>&nbsp;Катрен &#x2116;25 (3480) “Весной, будет объявлен Старт!”</span></h1><div class="sm-poem-blok"><p class="poem"><b>Каждая, точка соотношений цифр есть Знак!<br>
+<title>Весной, будет объявлен Старт! | Откровения людям Нового века</title><h1 class="page-title"><span class='date'>25.11.2025</span> Катрен №25 (3480) “Весной, будет объявлен Старт!”</h1><div class="razdel poem-blok"><p class="poem"><b>Каждая, точка соотношений цифр есть Знак!<br>
 Для Нового Мира есть Пути обозначение!<br>
 Эта, точка освещает окружающий Мрак!<br>
 Становится, видно направление движения!</b></p>
@@ -81,11 +81,12 @@
 <p class="noind">Да будет Свет Истины!<br>
 Отец Абсолют или Высший Космический Разум!</p>
 
-                <p class="noind">25.11.2025</p></div><div class="page-title page-top-next"><a href="poems/24.11.25.html" class="blue-link-pagination">Предыдущая</a>
+            <p class="noind">25.11.2025</p></div><div class="page-title page-top-next"><a href="poems/24.11.25.html" class="blue-link-pagination">Предыдущая</a>
                 <img src="_content/MSU.View.Otk/img/star.gif" height="15" hspace="10" width="15"><button onclick="window.scroll(0, 0);" class="btn-link blue-link-pagination">В начало страницы</button><span class=""><img src="_content/MSU.View.Otk/img/star.gif" height="15" hspace="10" width="15">
                 <a href="poems/26.11.25.html" class="blue-link-pagination">Следующая</a></span></div><div class="col-xs-6 version-print"><a href="print/poems/25.11.25.html" target="_blank" class="blue-link-version-print">Версия для печати</a></div>
-        <div class="col-xs-6 post-link"><a href="poems/25.11.25.html" target="_blank" class="blue-link-post">Постоянная ссылка</a></div><script>            if(typeof typeContent === 'undefined') {
+        <div class="col-xs-6 post-link"><a href="poems/25.11.25.html" target="_blank" class="blue-link-post">Постоянная ссылка</a></div><script>
+        if (typeof typeContent === 'undefined') {
             var typeContent = 'Poem';
-            }
+        }
 
-            tooltipstering(); clearTooltip();</script>
+        tooltipstering(); clearTooltip();</script>
