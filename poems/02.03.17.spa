@@ -1,4 +1,4 @@
-<title>Выбор и предательство</title><h1 class="page-title"><span><span class="date">02.03.17</span>&nbsp;Катрен  “Выбор и предательство”</span></h1><div class="sm-poem-blok"><p class="poem">Сегодня отбор серьёзный!<br />Предательство не прощается!<br />События уже объёмные!<br />Планета сама смещается!</p>
+<title>Выбор и предательство | Откровения людям Нового века</title><h1 class="page-title"><span class='date'>02.03.17</span> Катрен  “Выбор и предательство”</h1><div class="razdel poem-blok"><p class="poem">Сегодня отбор серьёзный!<br />Предательство не прощается!<br />События уже объёмные!<br />Планета сама смещается!</p>
 <p class="poem">Выбирающий знать должен!<br />Нет промежуточного положения!<br />Он Богом рукоположен,<br />Без всякого на то возражения!</p>
 <p class="poem">Сомнения всегда есть и были!<br />Это человеческие метания!<br />Исторические изменения не быль &ndash;<br />Это внутренние страдания!</p>
 <p class="poem">Великий постриг в Воины!<br />Предлагается избранным!<br />В Единстве и без промоин,<br />Они Богом выбраны!</p>
@@ -28,11 +28,12 @@
 <p class="poem">Не будет больше фамилии!<br />Выборность от Народа!<br />Совесть и Дух &ndash; победили!<br />Ответит Любовью Природа!</p>
 <p class="noind">Аминь.<br />Отец Абсолют.</p>
 
-                <p class="noind">02.03.17</p></div><div class="page-title page-top-next"><a href="poems/01.03.17.html" class="blue-link-pagination">Предыдущая</a>
+            <p class="noind">02.03.17</p></div><div class="page-title page-top-next"><a href="poems/01.03.17.html" class="blue-link-pagination">Предыдущая</a>
                 <img src="_content/MSU.View.Otk/img/star.gif" height="15" hspace="10" width="15"><button onclick="window.scroll(0, 0);" class="btn-link blue-link-pagination">В начало страницы</button><span class=""><img src="_content/MSU.View.Otk/img/star.gif" height="15" hspace="10" width="15">
                 <a href="poems/03.03.17.html" class="blue-link-pagination">Следующая</a></span></div><div class="col-xs-6 version-print"><a href="print/poems/02.03.17.html" target="_blank" class="blue-link-version-print">Версия для печати</a></div>
-        <div class="col-xs-6 post-link"><a href="poems/02.03.17.html" target="_blank" class="blue-link-post">Постоянная ссылка</a></div><script>            if(typeof typeContent === 'undefined') {
+        <div class="col-xs-6 post-link"><a href="poems/02.03.17.html" target="_blank" class="blue-link-post">Постоянная ссылка</a></div><script>
+        if (typeof typeContent === 'undefined') {
             var typeContent = 'Poem';
-            }
+        }
 
-            tooltipstering(); clearTooltip();</script>
+        tooltipstering(); clearTooltip();</script>
