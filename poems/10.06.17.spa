@@ -1,4 +1,4 @@
-<title>Россия ведёт на Восток</title><h1 class="page-title"><span><span class="date">10.06.17</span>&nbsp;Катрен  “Россия ведёт на Восток”</span></h1><div class="sm-poem-blok"><p class="poem"><b>России нельзя ошибаться!</b><br>
+<title>Россия ведёт на Восток | Откровения людям Нового века</title><h1 class="page-title"><span class='date'>10.06.17</span> Катрен  “Россия ведёт на Восток”</h1><div class="razdel poem-blok"><p class="poem"><b>России нельзя ошибаться!</b><br>
 Ошибок высока цена,<br>
 <b>России нужно собраться!</b><br>
 На решение отведены года!</p>
@@ -87,11 +87,13 @@
 Отец Абсолют.</p>
 <p class="noind">10.06.17</p>
 
-                </div><div class="page-title page-top-next"><a href="poems/09.06.17.html" class="blue-link-pagination">Предыдущая</a>
+            <span></span>
+</div><div class="page-title page-top-next"><a href="poems/09.06.17.html" class="blue-link-pagination">Предыдущая</a>
                 <img src="_content/MSU.View.Otk/img/star.gif" height="15" hspace="10" width="15"><button onclick="window.scroll(0, 0);" class="btn-link blue-link-pagination">В начало страницы</button><span class=""><img src="_content/MSU.View.Otk/img/star.gif" height="15" hspace="10" width="15">
                 <a href="poems/11.06.17.html" class="blue-link-pagination">Следующая</a></span></div><div class="col-xs-6 version-print"><a href="print/poems/10.06.17.html" target="_blank" class="blue-link-version-print">Версия для печати</a></div>
-        <div class="col-xs-6 post-link"><a href="poems/10.06.17.html" target="_blank" class="blue-link-post">Постоянная ссылка</a></div><script>            if(typeof typeContent === 'undefined') {
+        <div class="col-xs-6 post-link"><a href="poems/10.06.17.html" target="_blank" class="blue-link-post">Постоянная ссылка</a></div><script>
+        if (typeof typeContent === 'undefined') {
             var typeContent = 'Poem';
-            }
+        }
 
-            tooltipstering(); clearTooltip();</script>
+        tooltipstering(); clearTooltip();</script>
