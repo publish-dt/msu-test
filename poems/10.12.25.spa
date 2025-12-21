@@ -1,4 +1,4 @@
-<title>Главное слово, должен сказать Народ! | Откровения людям Нового века</title><h1 class="page-title"><span class='date'>10.12.2025</span> Катрен №10 (3495) “Главное слово, должен сказать Народ!”</h1><div class="razdel"><p class="poem">Планета, постепенно, готовится к преображению!<br>
+<title>Главное слово, должен сказать Народ! | Откровения людям Нового века</title><h1 class="page-title"><span class='date'>10.12.2025</span> Катрен №10 (3495) “Главное слово, должен сказать Народ!”</h1><div class="razdel poem-blok"><p class="poem">Планета, постепенно, готовится к преображению!<br>
 Сами люди, как всегда, ещё не готовы!<br>
 Только, Россия может говорить, о сути постижения!<br>
 У большинства народов Мира, только слова!</p>
@@ -101,8 +101,12 @@
 <p class="noind">Да будет Свет Истины!<br>
 Отец Абсолют или Высший Космический Разум!</p>
 
-            <p class="noind">10.12.2025</p>
-</div><div class="page-title page-top-next"><a href="poems/09.12.25.html" class="blue-link-pagination">Предыдущая</a>
+            <p class="noind">10.12.2025</p></div><div class="page-title page-top-next"><a href="poems/09.12.25.html" class="blue-link-pagination">Предыдущая</a>
                 <img src="_content/MSU.View.Otk/img/star.gif" height="15" hspace="10" width="15"><button onclick="window.scroll(0, 0);" class="btn-link blue-link-pagination">В начало страницы</button><span class=""><img src="_content/MSU.View.Otk/img/star.gif" height="15" hspace="10" width="15">
                 <a href="poems/11.12.25.html" class="blue-link-pagination">Следующая</a></span></div><div class="col-xs-6 version-print"><a href="print/poems/10.12.25.html" target="_blank" class="blue-link-version-print">Версия для печати</a></div>
-        <div class="col-xs-6 post-link"><a href="poems/10.12.25.html" target="_blank" class="blue-link-post">Постоянная ссылка</a></div>
+        <div class="col-xs-6 post-link"><a href="poems/10.12.25.html" target="_blank" class="blue-link-post">Постоянная ссылка</a></div><script>
+        if (typeof typeContent === 'undefined') {
+            var typeContent = 'Poem';
+        }
+
+        tooltipstering(); clearTooltip();</script>
