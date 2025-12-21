@@ -1,4 +1,4 @@
-<title>Две России, должны обняться, в Москве, на Сцене!</title><msu-data pathToUrl="poems/20.11.25"></msu-data><h1 class="page-title"><span><span class="date">20.11.2025</span>&nbsp;Катрен &#x2116;20 (3475) “Две России, должны обняться, в Москве, на Сцене!”</span></h1><div class="sm-poem-blok"><p class="poem">Эта История, на уровне, уже, Планеты!<br>
+<title>Две России, должны обняться, в Москве, на Сцене! | Откровения людям Нового века</title><msu-data pathToUrl="poems/20.11.25"></msu-data><h1 class="page-title"><span class='date'>20.11.2025</span> Катрен №20 (3475) “Две России, должны обняться, в Москве, на Сцене!”</h1><div class="razdel poem-blok"><p class="poem">Эта История, на уровне, уже, Планеты!<br>
 Россия, всегда отвечала за Цивилизацию!<br>
 Критерием Пятой Эпохи, была монета!<br>
 Против монеты, сегодня, Создателя акция!</p>
@@ -91,11 +91,12 @@
 <p class="noind">Да будет Свет Истины!<br>
 Отец Абсолют или Высший Космический Разум!</p>
 
-                <p class="noind">20.11.2025</p></div><div class="page-title page-top-next"><a href="poems/19.11.25.html" class="blue-link-pagination">Предыдущая</a>
+            <p class="noind">20.11.2025</p></div><div class="page-title page-top-next"><a href="poems/19.11.25.html" class="blue-link-pagination">Предыдущая</a>
                 <img src="_content/MSU.View.Otk/img/star.gif" height="15" hspace="10" width="15"><button onclick="window.scroll(0, 0);" class="btn-link blue-link-pagination">В начало страницы</button><span class=""><img src="_content/MSU.View.Otk/img/star.gif" height="15" hspace="10" width="15">
                 <a href="poems/21.11.25.html" class="blue-link-pagination">Следующая</a></span></div><div class="col-xs-6 version-print"><a href="print/poems/19.11.25.html" target="_blank" class="blue-link-version-print">Версия для печати</a></div>
-        <div class="col-xs-6 post-link"><a href="poems/19.11.25.html" target="_blank" class="blue-link-post">Постоянная ссылка</a></div><script>            if(typeof typeContent === 'undefined') {
+        <div class="col-xs-6 post-link"><a href="poems/19.11.25.html" target="_blank" class="blue-link-post">Постоянная ссылка</a></div><script>
+        if (typeof typeContent === 'undefined') {
             var typeContent = 'Poem';
-            }
+        }
 
-            tooltipstering(); clearTooltip();</script>
+        tooltipstering(); clearTooltip();</script>
