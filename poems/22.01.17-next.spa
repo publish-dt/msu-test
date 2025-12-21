@@ -1,4 +1,4 @@
-<title>Очищение</title><msu-data pathToUrl="poems/23.01.17"></msu-data><h1 class="page-title"><span><span class="date">23.01.17</span>&nbsp;Катрен  “Очищение”</span></h1><div class="sm-poem-blok"><p class="poem">Начало и есть начало!<br>
+<title>Очищение | Откровения людям Нового века</title><msu-data pathToUrl="poems/23.01.17"></msu-data><h1 class="page-title"><span class='date'>23.01.17</span> Катрен  “Очищение”</h1><div class="razdel poem-blok"><p class="poem">Начало и есть начало!<br>
 Нельзя &ndash; без очищения!<br>
 И не, что вдруг попало,<br>
 А внутреннее совмещение!</p>
@@ -76,11 +76,12 @@
 <p class="noind">Аминь.<br>
 Отец Абсолют.</p>
 
-                <p class="noind">23.01.17</p></div><div class="page-title page-top-next"><a href="poems/22.01.17.html" class="blue-link-pagination">Предыдущая</a>
+            <p class="noind">23.01.17</p></div><div class="page-title page-top-next"><a href="poems/22.01.17.html" class="blue-link-pagination">Предыдущая</a>
                 <img src="_content/MSU.View.Otk/img/star.gif" height="15" hspace="10" width="15"><button onclick="window.scroll(0, 0);" class="btn-link blue-link-pagination">В начало страницы</button><span class=""><img src="_content/MSU.View.Otk/img/star.gif" height="15" hspace="10" width="15">
                 <a href="poems/24.01.17.html" class="blue-link-pagination">Следующая</a></span></div><div class="col-xs-6 version-print"><a href="print/poems/22.01.17.html" target="_blank" class="blue-link-version-print">Версия для печати</a></div>
-        <div class="col-xs-6 post-link"><a href="poems/22.01.17.html" target="_blank" class="blue-link-post">Постоянная ссылка</a></div><script>            if(typeof typeContent === 'undefined') {
+        <div class="col-xs-6 post-link"><a href="poems/22.01.17.html" target="_blank" class="blue-link-post">Постоянная ссылка</a></div><script>
+        if (typeof typeContent === 'undefined') {
             var typeContent = 'Poem';
-            }
+        }
 
-            tooltipstering(); clearTooltip();</script>
+        tooltipstering(); clearTooltip();</script>
