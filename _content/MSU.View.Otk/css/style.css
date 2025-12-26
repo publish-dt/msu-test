@@ -824,22 +824,24 @@ p.c0 {
 /*НИЖНЯЯ ЧАСТЬ ЦЕНТРАЛЬНОЙ СТРАНИЦЫ*/
 /*-----------------------------------------------------------*/
 /*Переход в начало страницы и между страницами*/
-.page-top-next{
-	width: 100%; 
-	padding-top: 40px; 
+.page-footer {
+	width: 100%;
+	padding-top: 40px;
 	padding-bottom: 40px;
 	text-align: center;
+	border-bottom: 4px double #f0f0f0;
+	margin-bottom: 10px;
 }
 /*для слов "В начало страницы" и "На следующую"*/
-.page-top-next a{
+.page-footer a{
 	color: #9CF;
 	text-decoration: none;
 	font-size: 20px;
 }
-.page-top-next a:hover{
+.page-footer a:hover{
 	color: #FFF;
 }
-.page-top-next a:active{
+.page-footer a:active{
 	color: #CEF;
 }
 
@@ -919,7 +921,8 @@ p.c0 {
 	width: 100%;
 	font-size: 22px;
 	margin-top: 25px;
-	line-height: 3;
+	padding-top: 20px;
+	/*line-height: 3;*/
 	text-align: center;
 	border-top: 1px solid #9CF;
 }
@@ -963,6 +966,10 @@ DIV.hr {
 #res A:link {
     color: #9CF;
     text-decoration: none;
+}
+#msg-search {
+	border-bottom: 1px solid #AAA;
+	margin-bottom: 20px;
 }
 .search-res-el h4 {
 	color: #cef;
