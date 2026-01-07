@@ -43,6 +43,7 @@ minCldYear = 2016;
 maxCldYear = new Date().getFullYear();
 curCldMonth = undefined;
 curCldYear = undefined;
+isCldCompleted = false; // заполнение календаря ссылками завершено
 
 
 /* обратный отсчёт */
@@ -93,10 +94,14 @@ document.baseURI = getBaseURI();
 function startOnLoad() {
 
     var eventsCld = [];
-    var settings = { };
-    var element = document.getElementById('caleandar');
-    element.innerHTML = '';
-    caleandar(element, eventsCld, settings); // , newDateCld
+    var settings = {};
+
+    // выполняем, только если календарь ещё не заполнен ссылками (это зависит от того, что раньше выполнится: этот метод или htmx.defineExtension)
+    if (!isCldCompleted) {
+        var element = document.getElementById('caleandar');
+        element.innerHTML = '';
+        caleandar(element, eventsCld, settings);
+    }
 
     EnableDisableNonext();
 
@@ -759,6 +764,7 @@ function processJsonCld(data) {
         var element = document.getElementById('caleandar');
         element.innerHTML = '';
         caleandar(element, daysData, {}, newDate);
+        isCldCompleted = true;
 
         // заполнение списка годов в поле выбора (под календарём)
         var selectYear = document.getElementById('cldYear');
