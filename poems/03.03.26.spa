@@ -136,7 +136,7 @@
 Выстраивает, свой порядок!</p>
 
 <p class="poem">Вырваться, из этого трудно!<br>
-Люди, знают только,<br>
+Люди, знают только, одно!<br>
 Приходится падать на дно,<br>
 Чтобы, в жизни понять одно!</p>
 
@@ -208,7 +208,7 @@
 <p class="poem">Чтобы, продолжить Вам надо встать!<br>
 Над бытом и, конечно, над Материей!<br>
 У каждого человека, есть Отец, и есть Мать!<br>
-Нельзя, Вам, быть их потерей!</p>
+Нельзя, Вам, быть для них потерей!</p>
 
 <p class="poem">Помните, за Вами идут дети и внуки!<br>
 Процесс, эволюции не прерывается!<br>
@@ -247,8 +247,8 @@
 <p class="noind">Создатель!</p>
 
             <p class="noind">03.03.2026</p></div><div class="page-footer"><a href="poems/02.03.26.html" class="blue-link-pagination">Предыдущая</a>
-                <img src="_content/MSU.View.Otk/img/star.gif" height="15" hspace="10" width="15"><button onclick="window.scroll(0, 0);" class="btn-link blue-link-pagination">В начало страницы</button><span class="nonext"><img src="_content/MSU.View.Otk/img/star.gif" height="15" hspace="10" width="15">
-                <a href="poems/03.03.26-next.html" class="blue-link-pagination">Следующая</a><span title="Следующей страницы ещё может не быть"> [*]</span></span></div><div class="col-xs-6 version-print"><a href="print/poems/03.03.26.html" target="_blank" class="blue-link-version-print">Версия для печати</a></div>
+                <img src="_content/MSU.View.Otk/img/star.gif" height="15" hspace="10" width="15"><button onclick="window.scroll(0, 0);" class="btn-link blue-link-pagination">В начало страницы</button><span class=""><img src="_content/MSU.View.Otk/img/star.gif" height="15" hspace="10" width="15">
+                <a href="poems/04.03.26.html" class="blue-link-pagination">Следующая</a></span></div><div class="col-xs-6 version-print"><a href="print/poems/03.03.26.html" target="_blank" class="blue-link-version-print">Версия для печати</a></div>
         <div class="col-xs-6 post-link"><a href="poems/03.03.26.html" target="_blank" class="blue-link-post">Постоянная ссылка</a></div><script>
         if (typeof typeContent === 'undefined') {
             var typeContent = 'Poem';
