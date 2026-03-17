@@ -87,7 +87,8 @@
                                     <br><a href="poems/31.01.26.html">Россия останется, но все народы покинут Мир! (от 31.01.26)</a>
                                     <br></div></div></div>
             <div class='pagin'>
-            Катрены за <a href='2016.html' data-msu-paginel='true'>2016, </a><a href='2017.html' data-msu-paginel='true'>2017, </a><a href='2018.html' data-msu-paginel='true'>2018, </a><a href='2019.html' data-msu-paginel='true'>2019, </a><a href='2020.html' data-msu-paginel='true'>2020, </a><a href='2021.html' data-msu-paginel='true'>2021, </a><a href='2022.html' data-msu-paginel='true'>2022, </a><a href='2023.html' data-msu-paginel='true'>2023, </a><a href='2024.html' data-msu-paginel='true'>2024, </a><a href='2025.html' data-msu-paginel='true'>2025, </a><span>2026</span>
+            Катрены за <a href='poems/2016.html' >2016, </a><a href='poems/2017.html' >2017, </a><a href='poems/2018.html' >2018, </a><a href='poems/2019.html' >2019, </a><a href='poems/2020.html' >2020, </a><a href='poems/2021.html' >2021, </a><a href='poems/2022.html' >2022, </a><a href='poems/2023.html' >2023, </a><a href='poems/2024.html' >2024, </a><a href='poems/2025.html' >2025, </a><span>2026</span>
             год
             </div>                    
 <div class="clear"></div><div class="page-footer"><button onclick="window.scroll(0, 0);" class="btn-link blue-link-pagination">В начало страницы</button></div>
+\
