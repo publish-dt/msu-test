@@ -1,4 +1,4 @@
-<title>Вы, из Биологии, шагнёте в Мысль! | Откровения людям Нового века</title><h1 class="page-title"><span class='date'>12.05.2026</span> Катрен №12 (3660) “Вы, из Биологии, шагнёте в Мысль!”</h1><div class="razdel poem-blok"><p class="poem">Никто не ждёт, что может, вдруг, случиться!<br>
+<title>Вы, из Биологии, шагнёте в Мысль! | Откровения людям Нового века</title><h1 class="page-title"><span class='date'>12.05.2026</span> Катрен №12 (3660) “Вы, из Биологии, шагнёте в Мысль!”</h1><div class="razdel "><p class="poem">Никто не ждёт, что может, вдруг, случиться!<br>
 Ведь, на Планете сменится режим!<br>
 Режим, привычный, скоро отключится!<br>
 Начнётся, Новый Планетарный ритм!</p>
@@ -213,7 +213,7 @@
 <p class="poem">За Вами Новый сценарий!<br>
 Вы, начали его готовить сами!<br>
 Нужно, для людей, изменить глоссарий!<br>
-Поверьте, Создатель гордиться Вами!</p>
+Поверьте, Создатель гордится Вами!</p>
 
 <p class="poem">Вы, новый Потенциал и Надежда!<br>
 Ваш Разум, влился, в Великий!<br>
@@ -246,13 +246,13 @@
 
 <p class="noind">Создатель!</p>
 
-            <p class="noind">12.05.2026</p></div><div class="page-footer"><a href="poems/11.05.26.html" class="blue-link-pagination">Предыдущая</a>
+            <p class="date-footer">12.05.26</p></div><div class="page-footer"><a href="poems/11.05.26.html" class="blue-link-pagination">Предыдущая</a>
                 <img src="_content/MSU.View.Otk/img/star.gif" height="15" hspace="10" width="15"><button onclick="window.scroll(0, 0);" class="btn-link blue-link-pagination">В начало страницы</button><span class=""><img src="_content/MSU.View.Otk/img/star.gif" height="15" hspace="10" width="15">
                 <a href="poems/13.05.26.html" class="blue-link-pagination">Следующая</a></span></div><div class="col-xs-6 version-print"><a href="print/poems/12.05.26.html" target="_blank" class="blue-link-version-print">Версия для печати</a></div>
         <div class="col-xs-6 post-link"><a href="poems/12.05.26.html" target="_blank" class="blue-link-post">Постоянная ссылка</a></div><script>
         if (typeof typeContent === 'undefined') {
-            var typeContent = 'Poem';
+            var typeContent = '';
         }
 
-        tooltipstering(); clearTooltip();</script>
+        </script>
 \
